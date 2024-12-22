@@ -1,11 +1,11 @@
 class script(object):
-    START_TXT = """<b> 🎭ᴀꜱꜱᴀʟᴀᴍᴜᴀʟᴀɪᴋᴜᴍ {} {},
+    START_TXT = """<b> 🎭JAY SHREE RAM {} {},
     
 <blockquote>ɪᴍ ᴛʜᴇ ᴍᴏsᴛ ᴀᴅᴠᴀɴᴄᴇ ᴀɪ ᴘᴏᴡᴇʀᴅ 🤖 ᴀᴜᴛᴏ ғɪʟᴛᴇʀ ʙᴏᴛ..
 sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ sᴇᴇ ᴍʏ ᴍᴀɢɪᴄ..✨</blockquote>
 <blockquote>ғᴏʀ ᴍᴏʀᴇ ᴅᴇᴛᴀɪʟs ᴜsᴇ ᴛʜᴇ ʙᴜᴛᴛᴏɴs ʙᴇʟᴏᴡ 🤞🏻</blockquote>
 
-ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/Spark_Developer'>ꜱᴘᴀʀᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
+ᴍᴀɪɴᴛᴀɪɴᴇᴅ ʙʏ : <a href='https://telegram.me/harshu801049'>M HARSHU</a>
 </b>"""
     
     HELP_TXT = """<b>ᴄʟɪᴄᴋ ᴏɴ ᴛʜᴇ ʙᴜᴛᴛᴏɴꜱ ʙᴇʟᴏᴡ ᴛᴏ ɢᴇᴛ ᴅᴏᴄᴜᴍᴇɴᴛᴀᴛɪᴏɴ ᴀʙᴏᴜᴛ ꜱᴘᴇᴄɪꜰɪᴄ ᴍᴏᴅᴜʟᴇꜱ..</b>"""
@@ -15,8 +15,8 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ɴᴏᴛᴇ - ᴛʜɪs ᴄᴏᴍᴍᴀɴᴅ ᴡᴏʀᴋ ɪɴ ʙᴏᴛʜ ɢʀᴏᴜᴘs ᴀɴᴅ ʙᴏᴛ ᴘᴍ</b>"""
     FSUB_TXT = """<b>•   😗
 •  sᴜʙsᴄʀɪʙᴇ ᴄʜᴀɴɴᴇʟ   😉
-• Made by :- ꜱᴘᴀʀᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ
-ᴇx: <code>ꜱᴘᴀʀᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</code>
+• Made by :- HARSHU
+ᴇx: <code>M HARSHU</code>
 
  ᴜsᴇʀs ᴊᴏɪɴ ʏᴏᴜʀ  ᴄʜᴀɴɴᴇʟ.
 
@@ -34,16 +34,16 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
     TTS_TXT="""
 <b>• sᴇɴᴅ /tts ᴛᴏ ᴜsᴇ ᴛʜɪs ғᴇᴀᴛᴜʀᴇ</b>"""
 
-    ABOUT_TEXT = """<b>🎭 ᴀꜱꜱᴀʟᴀᴍᴜᴀʟᴀɪᴋᴜᴍ {},
+    ABOUT_TEXT = """<b>🎭 JAY SHREE RAM {},
     
 🤖 ɪ'ᴍ <a href=https://t.me/{}</a> 
 ⚙️ ᴄʜɪʟʟɪɴɢ ᴏɴ : <a href="https://www.heroku.com/">ʜᴇʀᴏᴋᴜ</a>
 🍿 ʙʀᴀɪɴ ғᴜᴇʟᴇᴅ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
 🐍 ᴄᴏᴅɪɴɢ ᴍᴜsᴄʟᴇs : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ 3</a>
-😚 ᴍʏ ᴛʀᴜsᴛʏ ᴏᴡɴᴇʀ: <a href="https://telegram.me/Spark_Developer">ᴘʏʀᴏғᴏʀᴋ</a>
-🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href="https://telegram.me/Spark_Developer">ꜱᴘᴀʀᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
-🧑🏻‍💻 ᴍʏ ᴏᴡɴᴇʀ : <a href="https://telegram.me/Spark_Developer">ꜱᴘᴀʀᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ</a>
-🧑🏻‍💻 ʀᴇᴘᴏ ᴏᴡɴᴇʀ : <a href="https://telegram.me/Spark_Developer">ʟɪɴᴋ</a>
+😚 ᴍʏ ᴛʀᴜsᴛʏ ᴏᴡɴᴇʀ: <a href='https://telegram.me/harshu801049'>M HARSHU</a>
+🙏🏻 ᴍʏ ᴄʀᴇᴀᴛᴏʀ : <a href='https://telegram.me/harshu801049'>M HARSHU</a>
+🧑🏻‍💻 ᴍʏ ᴏᴡɴᴇʀ : <a href='https://telegram.me/harshu801049'>M HARSHU</a>
+🧑🏻‍💻 ʀᴇᴘᴏ ᴏᴡɴᴇʀ : <a href='https://telegram.me/harshu801049'>M HARSHU</a>
 </b>"""
     SUPPORT_GRP_MOVIE_TEXT = '''<b>ʜᴇʏ {}
 
@@ -52,7 +52,7 @@ sᴇɴᴅ ᴍᴇ ᴀɴʏ ᴍᴏᴠɪᴇ ᴏʀ sᴇʀɪᴇs ɴᴀᴍᴇ ᴀɴᴅ 
 ᴘʟᴇᴀsᴇ ᴊᴏɪɴ ᴏᴜʀ ʀᴇǫᴜᴇsᴛ ɢʀᴏᴜᴘ ᴛᴏ ɢᴇᴛ ✨</b>'''
 
     
-    REF_LINK = '''🔗 <b>Hᴇʀᴇ ɪs ᴏᴜʀ ʀᴇғᴇʀʀᴀʟ ʟɪɴᴋ: <code>https://telegram.me/{}?start=Spark_Developer-{}</code>
+    REF_LINK = '''🔗 <b>Hᴇʀᴇ ɪs ᴏᴜʀ ʀᴇғᴇʀʀᴀʟ ʟɪɴᴋ: <code>https://telegram.me/{}?start=HARSHU-{}</code>
     
 👥 Fᴏʀ ᴇᴠᴇʀʏ ɴᴇᴡ ᴜsᴇʀ ᴡʜᴏ sᴛᴀʀᴛs ᴛʜᴇ ʙᴏᴛ ᴜsɪɴɢ ᴛʜɪs ʟɪɴᴋ, ʏᴏᴜ ᴡɪʟʟ ʀᴇᴄᴇɪᴠᴇ 100 ᴘᴏɪɴᴛs. 
 
