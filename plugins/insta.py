@@ -23,9 +23,9 @@ async def link_handler(Mbot, message):
         url= link.replace("instagram.com","ddinstagram.com")
         url=url.replace("==","%3D%3D")
         if url.endswith("="):
-           dump_file=await message.reply_video(url[:-1],caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @Raja1234321")
+           dump_file=await message.reply_video(url[:-1],caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @harshu801049")
         else:
-            dump_file=await message.reply_video(url,caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @Raja1234321")
+            dump_file=await message.reply_video(url,caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @harshu801049")
         if 'dump_file' in locals():
            await dump_file.forward(DUMP_GROUP)
         await m.delete()
@@ -75,7 +75,7 @@ async def link_handler(Mbot, message):
                      com=await message.reply_text(meta[i])
                      await asyncio.sleep(1)
                      try:
-                        dump_file=await message.reply_video(com.text,caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @AF_mhakal")
+                        dump_file=await message.reply_video(com.text,caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @harshu801049")
                         await com.delete()
                      except:
                          pass 
@@ -87,12 +87,12 @@ async def link_handler(Mbot, message):
                   else:
                       return await message.reply("Oops something went wrong")
                   try:
-                     dump_file=await message.reply_video(meta[0], caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @AF_Mhakal")
+                     dump_file=await message.reply_video(meta[0], caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @harshu801049")
                   except:
                       com=await message.reply(meta[0])
                       await asyncio.sleep(1)
                       try:
-                          dump_file=await message.reply_video(com.text,caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @AF_Mhakal")
+                          dump_file=await message.reply_video(com.text,caption="ᴘᴏᴡᴇʀᴇᴅ ʙʏ - @harshu801049")
                           await com.delete()
                       except:
                           pass
@@ -106,7 +106,7 @@ async def link_handler(Mbot, message):
                await Mbot.send_message(LOG_GROUP, traceback.format_exc())
           #     await message.reply(tracemsg)
             ##optinal 
-            await message.reply(f"400: Sorry, Unable To Find It  try another or report it  to @AF_Mhakal")
+            await message.reply(f"400: Sorry, Unable To Find It  try another or report it  to @harshu801049")
 
         finally:
             if 'dump_file' in locals():
@@ -115,5 +115,5 @@ async def link_handler(Mbot, message):
             await m.delete()
             if 'downfile' in locals():
                 os.remove(downfile)
-            await message.reply("<a href='https://t.me/AF_Mhakal'>@AF_MHAKAL</a>")
+            await message.reply("<a href='https://t.me/harshu801049'>@harshu801049</a>")
 
