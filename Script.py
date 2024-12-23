@@ -104,7 +104,8 @@ User - {}"""
 📆 ʏᴇᴀʀ - {release_date}
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
-     FILE_CAPTION = {file_name}
+    FILE_CAPTION = """<a href='https://t.me/+L8FEK560H-Q5ZGQ1'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""   
+
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
