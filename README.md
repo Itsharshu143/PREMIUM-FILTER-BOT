@@ -2,7 +2,7 @@
   <img src="https://graph.org/file/a5f6da40168d19a3bedb8.jpg">
 </p>
 <h1 align="center">
-  Biisal Filter Bot
+  Harshu Filter Bot
 </h1>
 
 First Check our **Demo** bot -
