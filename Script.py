@@ -104,9 +104,7 @@ User - {}"""
 📆 ʏᴇᴀʀ - {release_date}
 ❗️ ʟᴀɴɢᴜᴀɢᴇ - {languages}</b>
 """
-
-    FILE_CAPTION = """<a href='https://t.me/Harshu801049'><b>ɴᴀᴍᴇ : {file_name}</b></a>"""
-
+     FILE_CAPTION = {file_name}
     RESTART_TXT = """<b>
 📅 Dᴀᴛᴇ : <code>{}</code>
 ⏰ Tɪᴍᴇ : <code>{}</code>
